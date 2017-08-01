@@ -1,0 +1,51 @@
+.jumbotron{
+	background-color: #FFB6C1;
+	font-size: 20px;
+	width: 400px;
+	height:200px;
+	margin-left: 300px;
+	 border-radius: 200px;
+}
+.container {
+		background-image: url(https://s-media-cache-ak0.pinimg.com/originals/73/2a/8d/732a8d4991fc4bd555430aa3f15bdca4.jpg);
+}
+
+.directions { 
+	font-style: bold;
+	font-family: 'Merriweather', serif;
+	font-size: 16px;
+	margin-left: 75px;
+}
+
+#computer-score{
+	background-color: #DDA0DD;
+	width: 200px; 
+	height:200px;
+}
+
+#tally-box{
+	background-color: #B0E0E6;
+	width: 200px;
+	height: 200px;
+	font-size: 20px;
+}
+
+#win-loss{
+	width: 50px;
+	height: 5px;
+}
+#wins{
+	margin-top: 100px;
+}
+#player-score{
+	background-color: #DDA0DD;
+	width: 200px;
+	height: 200px;
+	font-size: 28px;
+	font-style: bold;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+}
